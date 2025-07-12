@@ -3,6 +3,6 @@ tags={
 	"Graphics"
 	"Interface"
 }
-name="Scaran blood icon"
+name="Scarab blood icon"
 supported_version="1.15.*"
 path="mod/scarab_icon"

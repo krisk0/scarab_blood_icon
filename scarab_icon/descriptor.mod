@@ -3,5 +3,5 @@ tags={
 	"Graphics"
 	"Interface"
 }
-name="Scaran blood icon"
+name="Scarab blood icon"
 supported_version="1.15.*"
