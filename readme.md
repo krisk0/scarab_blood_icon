@@ -18,3 +18,7 @@ Both traits are useful, you will want to have them on all your dynasty members (
 Install via **dowser.exe** as usual.
 
 Or just replace one file of EK mod: **scarab_blood.dds**.
+
+## My mods
+
+List of my modifications for CK3, and my load order is [here](https://gist.github.com/krisk0/3c51136a877afd606c184a575400922f).
